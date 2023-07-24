@@ -5,6 +5,7 @@ Steps to run application:
 1. Clone repository
 2. Open solution in Visual Studio
 3. Run application
+4. I added Swagger so testing will be easier
 
 There is 2 options to run application in DEBUG or RELEASE mode.
 
